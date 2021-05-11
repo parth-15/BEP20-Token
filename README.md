@@ -1,2 +1,2 @@
 # BEP20-Token
-Create a BEP20 token
+Creating a BEP20 token and deployed it on Binance Smart Chain testnet.
